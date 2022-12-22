@@ -13,5 +13,4 @@ public class Constants {
 
 
     public static final String UNITS_METRIC = "metric";
-    public static final String UNITS_IMPERIAL = "imperial";
 }
