@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search">Search</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="error_message">Invalid city or Network failure.</string>
+    <string name="degrees">°C</string>
+</resources>
